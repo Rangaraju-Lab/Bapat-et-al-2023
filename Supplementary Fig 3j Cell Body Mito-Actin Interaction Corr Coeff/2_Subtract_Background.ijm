@@ -2,7 +2,7 @@
  * This code asks user to make Background ROI and subtracts background in cropped images.
  */
  
-Main = "C:/Users/shahm/Desktop/VapKO Review coloc2/";
+Main = "path-to-raw-images-folder";
 
 //Find Input file location using any opened image from the folder
 Input = Main+"Crop/"
