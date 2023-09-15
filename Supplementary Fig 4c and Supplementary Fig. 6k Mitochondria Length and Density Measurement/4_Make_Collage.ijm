@@ -6,7 +6,7 @@
 */
 
 
-Parent = "Z:/DATA/Monil/Ojasee_Mito Content Newly Imaged/VAPKO/"
+Parent = "path-to-raw-images-folder"
 newImage("Combined Stacks", "16-bit black", 1, 1, 1);
 folderlist = getFileList(Parent);
 nr = 0

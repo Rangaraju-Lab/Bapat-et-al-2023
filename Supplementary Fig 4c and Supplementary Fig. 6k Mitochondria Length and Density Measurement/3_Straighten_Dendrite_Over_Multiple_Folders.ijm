@@ -12,7 +12,7 @@
 
 
 //Location of Parent folder with each subfolder representing one spine.
-Parent = "Z:/DATA/Monil/Ojasee_Mito Content Newly Imaged/VAPKO/"
+Parent = "path-to-raw-images-folder"
 folderlist = getFileList(Parent);
 
 //Iterate over all subfolders

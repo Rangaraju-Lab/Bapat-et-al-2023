@@ -7,9 +7,9 @@
 */
 
 //Location of Parent folder with each subfolder representing one spine.
-Parent = "Z:/DATA/Monil/Ojasee_Mito Content Newly Imaged/Controls/"
+Parent = "path-to-raw-images-folder"
 //Location of ROISet file containing manual traces for each mitochondira over the collage image.
-Manual_ROISet = "Z:/DATA/Monil/Ojasee_Mito Content Newly Imaged/Controls/RoiSet.zip"
+Manual_ROISet = "path-to-RoiSet.zip-file"
 
 //Set measurements to area, mean and centroid. These measurements are required within the code.
 run("Set Measurements...", "area mean centroid redirect=None decimal=3");
