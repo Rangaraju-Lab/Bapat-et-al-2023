@@ -5,8 +5,8 @@
  * Note: Background subtracted image overwrites the raw image.
  */
 
-Main = "Z:/DATA/Monil/Spine actin dynamics to analyze/Control vs VAP KO/";
-Output = Main
+
+Output = "path-to-output-folder";
 name = File.nameWithoutExtension; 
 //Subtract background from Images
 setTool("rectangle");

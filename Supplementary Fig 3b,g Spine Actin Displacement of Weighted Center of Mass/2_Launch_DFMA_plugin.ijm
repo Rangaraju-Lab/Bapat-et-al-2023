@@ -2,7 +2,7 @@
  * User must manually adjust threshold, save weighted image and save coordinates for center of mass.
  */
 
-Main = "Z:/DATA/Monil/Spine actin dynamics to analyze/Control vs VAP KO/BgS/";
+Main = "path-to-background-subtracted-folder";
 name = File.nameWithoutExtension; 
 setOption("ScaleConversions", true);
 run("8-bit");
