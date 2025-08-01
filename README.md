@@ -1,3 +1,6 @@
+**#Copyright Statement**
+Copyright 2024 of the Max Planck Florida Corporation and Ojasee Bapat, Monil Shah, Ruolin Fan, Vidhya Rangaraju. All rights reserved.
+
 # Bapat-et-al-2023
 
 This repository contains ImageJ/Fiji Macros used in:
