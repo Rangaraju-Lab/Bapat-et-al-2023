@@ -4,7 +4,7 @@
 This repository contains ImageJ/Fiji Macros used in:
 Bapat, O., Purimetla, T., Kruessel, S., Thum, C., Rupprecht, F., Shah, M., ... & Rangaraju, V. (2023). VAP spatially stabilizes dendritic mitochondria to locally fuel synaptic plasticity. bioRxiv, 2023-01.
 
-
+Please cite this paper when using any of these analysis scripts or data-processing pipelines. 
 
 1)	Supplementary Fig 3b,g Spine Actin Displacement of Weighted Center of Mass
 
